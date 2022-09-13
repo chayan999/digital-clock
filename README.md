@@ -1,3 +1,7 @@
 # digital-clock
 
-![digitals](https://user-images.githubusercontent.com/76901708/189876123-f6db2727-4b6d-46e2-bcd6-de1f737ccbdd.PNG)
+##live link
+[click Here]( GItHub README Files)
+https://chayan999.github.io/digital-clock/
+![screenShot](img/digital-clock.PNG)
+
